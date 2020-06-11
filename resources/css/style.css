@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, sans-serif;
+    background-color: black;
+    display: block;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    margin: auto;
+    font-weight: normal;
+}
+
+.link{
+    color: aquamarine;
+    font-size: 16px;
+}
+h2{
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+h3{
+    font-size: 21px;
+    color: gray;
+}
+
+img{
+    display: block;
+    margin: 20px auto;
+    
+}
+footer{
+    text-align: right;
+    color: gray;
+}
